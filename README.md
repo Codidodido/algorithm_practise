@@ -10,3 +10,4 @@ This repo is about solving quera challanges.
 - [Complete Number](easy/complete_number.cpp) | [Question](https://quera.org/problemset/282)
 - [Pythagoras Numbers](easy/pythagoras_number.cpp) | [Question](https://quera.org/problemset/57760)
 - [Multiplication Table](easy/multiplication_table.cpp) | [Question](https://quera.org/problemset/3409)
+- [Many Employees](easy/many_employees.py) | [Question](https://quera.org/problemset/10636)
