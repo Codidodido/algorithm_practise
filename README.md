@@ -11,3 +11,4 @@ This repo is about solving quera challanges.
 - [Pythagoras Numbers](easy/pythagoras_number.cpp) | [Question](https://quera.org/problemset/57760)
 - [Multiplication Table](easy/multiplication_table.cpp) | [Question](https://quera.org/problemset/3409)
 - [Many Employees](easy/many_employees.py) | [Question](https://quera.org/problemset/10636)
+- [Word Word](easy/word_word.py) | [Question](https://quera.org/problemset/108665)
