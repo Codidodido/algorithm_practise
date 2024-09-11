@@ -12,3 +12,4 @@ This repo is about solving quera challanges.
 - [Multiplication Table](easy/multiplication_table.cpp) | [Question](https://quera.org/problemset/3409)
 - [Many Employees](easy/many_employees.py) | [Question](https://quera.org/problemset/10636)
 - [Word Word](easy/word_word.py) | [Question](https://quera.org/problemset/108665)
+- [Unique Numbers](easy/unique_numbers.py) | [Question](https://quera.org/problemset/148099?tab=submissions)
