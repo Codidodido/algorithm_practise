@@ -14,3 +14,4 @@ This repo is about solving quera challanges.
 - [Word Word](easy/word_word.py) | [Question](https://quera.org/problemset/108665)
 - [Unique Numbers](easy/unique_numbers.py) | [Question](https://quera.org/problemset/148099)
 - [Complex Calculate](easy/complex_calculate.cpp) | [Question](https://quera.org/problemset/279)
+- [Hexadecimal Numbers](medium/hexadecimal_numbers.cpp) | [Question](https://quera.org/problemset/277)
