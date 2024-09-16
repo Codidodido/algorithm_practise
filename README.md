@@ -82,4 +82,9 @@ This repo is about solving quera challanges.
     <td>Easy</td>
     <td><a href="easy/print_square.py">Solve</a></td>
 </tr>
+<tr>
+    <td><a href="https://quera.org/problemset/2529">Names</a></td>
+    <td>Easy</td>
+    <td><a href="easy/names.py">Solve</a></td>
+</tr>
 </table>
