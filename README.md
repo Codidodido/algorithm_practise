@@ -77,4 +77,9 @@ This repo is about solving quera challanges.
     <td>Easy</td>
     <td><a href="easy/strict_diet.cpp">Solve</a></td>
 </tr>
+<tr>
+    <td><a href="https://quera.org/problemset/591">Print Square</a></td>
+    <td>Easy</td>
+    <td><a href="easy/print_square.py">Solve</a></td>
+</tr>
 </table>
